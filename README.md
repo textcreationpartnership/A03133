@@ -35,9 +35,23 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A historicall relation of the famous siege of the Busse, and the suprising of Wesell Together with t
+
+1. To His honoured friends, The Deputy, Minister, Treasurers, Assistants, and Generality, of the right Worshipfull Company of Marchant Adventurers residing in Delph.
+
 #####Body#####
-A historicall relation of the famous siege of the Busse, and the suprising of Wesell Together with t
+
+1. A Briefe relation of the siege of the Busse And the surprizing of Wesell.
+
+1. ARTICLES Graunted by his Excie my Lord the Prince of Orrange, to the Gouernour of the Busse, & the Captaines, Officers and Souldi•rs there•n.
+
+1. POINTS Agreed on by his •xcilenc• the Prince of Orange, and the Deputies of the high and mightie Lords the S•ates Generall of the vnited prouinces, to the Ecclesiastickes, Magistracy, and Burgeses off the City of the B•sse.
+
+1. The Ratification.
+
+1. A Supposition touching •he state of the enemies garrisson which marched out of the Busse on munday the 17th September 1629 New stile.
+
+1. A List Of our Noble men, Vollunteirs, and Gentlemen of our Nation, which bor• armes & trayled p•kes at the S•e•e of the Busse, vnder the foure English Coronels companies, & •irst of th•se which were vnder my Lord Generall Vere his first company Coronell of Dort.
+
 **Types of content**
 
   * There are 10 **verse** lines!
